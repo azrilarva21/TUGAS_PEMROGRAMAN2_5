@@ -1,0 +1,5 @@
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_1_1204004\P5_1_1204011\bin\Debug\P5_1_1204011.dll
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_1_1204004\P5_1_1204011\bin\Debug\P5_1_1204011.pdb
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_1_1204004\P5_1_1204011\obj\Debug\P5_1_1204011.csprojResolveAssemblyReference.cache
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_1_1204004\P5_1_1204011\obj\Debug\P5_1_1204011.dll
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_1_1204004\P5_1_1204011\obj\Debug\P5_1_1204011.pdb

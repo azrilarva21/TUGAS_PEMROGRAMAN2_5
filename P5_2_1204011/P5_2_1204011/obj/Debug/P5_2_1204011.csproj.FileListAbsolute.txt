@@ -1,0 +1,3 @@
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_2_1204011\P5_2_1204011\obj\Debug\P5_2_1204011.csprojResolveAssemblyReference.cache
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_2_1204011\P5_2_1204011\obj\Debug\P5_2_1204011.DigitalClock.resources
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_2_1204011\P5_2_1204011\obj\Debug\P5_2_1204011.csproj.GenerateResource.Cache

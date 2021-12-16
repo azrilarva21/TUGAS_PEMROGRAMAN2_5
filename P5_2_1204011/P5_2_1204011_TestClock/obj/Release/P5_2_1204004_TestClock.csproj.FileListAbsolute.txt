@@ -1,0 +1,11 @@
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\bin\Release\P5_2_1204004_TestClock.exe.config
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\bin\Release\P5_2_1204004_TestClock.exe
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\bin\Release\P5_2_1204004_TestClock.pdb
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\bin\Release\P5_2_1204004.dll
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\bin\Release\P5_2_1204004.pdb
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\obj\Release\P5_2_1204004_TestClock.csprojResolveAssemblyReference.cache
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\obj\Release\P5_2_1204004_TestClock.Form1.resources
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\obj\Release\P5_2_1204004_TestClock.Properties.Resources.resources
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\obj\Release\P5_2_1204004_TestClock.csproj.GenerateResource.Cache
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\obj\Release\P5_2_1204004_TestClock.exe
+D:\dotnetp5\P5_2_1204004\P5_2_1204004_TestClock\obj\Release\P5_2_1204004_TestClock.pdb

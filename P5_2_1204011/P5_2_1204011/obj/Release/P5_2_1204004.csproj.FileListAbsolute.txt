@@ -1,0 +1,6 @@
+D:\dotnetp5\P5_2_1204004\P5_2_1204004\bin\Release\P5_2_1204004.dll
+D:\dotnetp5\P5_2_1204004\P5_2_1204004\bin\Release\P5_2_1204004.pdb
+D:\dotnetp5\P5_2_1204004\P5_2_1204004\obj\Release\P5_2_1204004.DigitalClock.resources
+D:\dotnetp5\P5_2_1204004\P5_2_1204004\obj\Release\P5_2_1204004.csproj.GenerateResource.Cache
+D:\dotnetp5\P5_2_1204004\P5_2_1204004\obj\Release\P5_2_1204004.dll
+D:\dotnetp5\P5_2_1204004\P5_2_1204004\obj\Release\P5_2_1204004.pdb

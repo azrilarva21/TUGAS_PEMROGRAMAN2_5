@@ -1,0 +1,4 @@
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_3_1204011\P5_3_1204011_Form\obj\Debug\P5_3_1204011_Form.csprojResolveAssemblyReference.cache
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_3_1204011\P5_3_1204011_Form\obj\Debug\P5_3_1204011_Form.Form1.resources
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_3_1204011\P5_3_1204011_Form\obj\Debug\P5_3_1204011_Form.Properties.Resources.resources
+D:\tugas kuliah\Pemrograman 2\praktikum 5\P5_3_1204011\P5_3_1204011_Form\obj\Debug\P5_3_1204011_Form.csproj.GenerateResource.Cache
